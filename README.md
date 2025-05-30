@@ -1,3 +1,3 @@
 # 3d_assets
 
-# Assets for the PTD League game.
+## Assets for the PTD League game.
